@@ -1,0 +1,29 @@
+_repo: Adventures-in-the-Moon-and-Other-Worlds_43543
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43543-h/images/cover_title1.jpg
+creator:
+  author:
+    agent_name: Russell, John Russell, Earl
+    aliases:
+    - Russell, John, Lord
+    - Russell, J. (John), Lord
+    birthdate: 1792
+    deathdate: 1878
+    gutenberg_agent_id: '42283'
+    url: http://www.gutenberg.org/2009/agents/42283
+description: ''
+gutenberg_issued: '2013-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43543'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HX'
+- !lcsh 'Utopias'
+title: Adventures in the Moon, and Other Worlds
+url: http://www.gutenberg.org/ebooks/43543
